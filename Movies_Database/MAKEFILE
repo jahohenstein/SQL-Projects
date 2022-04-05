@@ -1,2 +1,4 @@
+import queries.py
+
 run:
 	python queries.py
